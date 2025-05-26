@@ -46,3 +46,6 @@ thesis/*.pdf
 *.bak
 *.tmp
 *.swp
+
+# key
+config.json
