@@ -2,7 +2,7 @@ import requests
 import json
 import os
 
-TRANZY_API_KEY = "your_api_key_here"  # Replace with your actual API key
+TRANZY_API_KEY = "api_key"  # Replace with your actual API key
 BASE_URL = "https://api.tranzy.ai/v1/opendata"
 AGENCY_ID = "2"  
 
